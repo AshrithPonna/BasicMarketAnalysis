@@ -19,7 +19,7 @@ This application takes information from Yahoo Finance and calculations a variety
 - [x] Average Price (stock price over past year)
 - [x] Average Returns (averaging returns)
 - [x] Volatility Determinations (fluctuations calculated via std.dev)
-- [x] Statistics (
+- [x] Statistics (based on yfinance outputs)
 - [x] Daily Gains/Losses (this includes averages)
 
 These are all correlative to stocks; graphs (line) for historical distributions are created.
@@ -29,6 +29,8 @@ These are all correlative to stocks; graphs (line) for historical distributions 
 - [x] How to manipulate data frame contents with functions.
 - [x] Utilizing matplotlib to create graphs representative of historical data.
 - [x] Understanding key financial metrics and their relevance.
+- [x] Using functions that are applicable with panda library and matplotlib.
+- [x] Differentiating financial data based on stock context (with connections to other math concepts).
 
 ## Skills
 - [x] Python 3
