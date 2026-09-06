@@ -6,6 +6,10 @@
 
 # Utility
 
-Python, pandas, and numpy were utilized, in addition to matplotlib.
+Python, pandas, and numpy were utilized, in addition to matplotlib (data visuals).
 
 Finance metrics are called from yfinance and are calculated in the form of volatility, statistics, and other relevant data.
+
+# Workflow
+
+Tested and reviewed codebase.
