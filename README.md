@@ -12,8 +12,9 @@ python3 -m pip install yfinance pandas numpy matplotlib
 python3 stock_tracker.py              # Analyze Apple (default)
 python3 stock_tracker.py MSFT         # Analyze Microsoft
 python3 stock_tracker.py TSLA         # Analyze Tesla
+```
 
-# Overview
+## Overview
 This application takes information from Yahoo Finance and calculations a variety of metrics:
 > Average Price (stock price over past year)
 > Average Returns (averaging returns)
@@ -23,13 +24,13 @@ This application takes information from Yahoo Finance and calculations a variety
 
 These are all correlative to stocks; graphs (line) for historical distributions are created.
 
-# Learning Technicalities
+## Learning Technicalities
 > Data manipulations in data frames with panda.
 > How to manipulate data frame contents with functions.
 > Utilizing matplotlib to create graphs representative of historical data.
 > Understanding key financial metrics and their relevance.
 
-# Skills
+## Skills
 > Python 3
 > yfinance ( stock data)
 > pandas (data manipulation)
