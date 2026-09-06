@@ -32,7 +32,7 @@ These are all correlative to stocks; graphs (line) for historical distributions 
 
 ## Skills
 - [x] Python 3
-- [x] yfinance ( stock data)
+- [x] yfinance (stock data)
 - [x] pandas (data manipulation)
 - [x] numpy (calculations)
 - [x] matplotlib (visualization)
