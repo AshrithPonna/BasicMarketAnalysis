@@ -31,6 +31,7 @@ These are all correlative to stocks; graphs (line) for historical distributions 
 - [x] Understanding key financial metrics and their relevance.
 - [x] Using functions that are applicable with panda library and matplotlib.
 - [x] Differentiating financial data based on stock context (with connections to other math concepts).
+- [x] Utilizing python functions and allocating them for different purposes (in conjunction with imported libraries).
 
 ## Skills
 - [x] Python 3
